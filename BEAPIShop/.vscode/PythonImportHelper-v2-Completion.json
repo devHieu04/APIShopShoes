@@ -1,0 +1,748 @@
+[
+    {
+        "label": "os",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os",
+        "description": "os",
+        "detail": "os",
+        "documentation": {}
+    },
+    {
+        "label": "get_asgi_application",
+        "importPath": "django.core.asgi",
+        "description": "django.core.asgi",
+        "isExtraImport": true,
+        "detail": "django.core.asgi",
+        "documentation": {}
+    },
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "path",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "include",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "path",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "path",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "get_wsgi_application",
+        "importPath": "django.core.wsgi",
+        "description": "django.core.wsgi",
+        "isExtraImport": true,
+        "detail": "django.core.wsgi",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "AppConfig",
+        "importPath": "django.apps",
+        "description": "django.apps",
+        "isExtraImport": true,
+        "detail": "django.apps",
+        "documentation": {}
+    },
+    {
+        "label": "AppConfig",
+        "importPath": "django.apps",
+        "description": "django.apps",
+        "isExtraImport": true,
+        "detail": "django.apps",
+        "documentation": {}
+    },
+    {
+        "label": "serializers",
+        "importPath": "rest_framework",
+        "description": "rest_framework",
+        "isExtraImport": true,
+        "detail": "rest_framework",
+        "documentation": {}
+    },
+    {
+        "label": "status",
+        "importPath": "rest_framework",
+        "description": "rest_framework",
+        "isExtraImport": true,
+        "detail": "rest_framework",
+        "documentation": {}
+    },
+    {
+        "label": "serializers",
+        "importPath": "rest_framework",
+        "description": "rest_framework",
+        "isExtraImport": true,
+        "detail": "rest_framework",
+        "documentation": {}
+    },
+    {
+        "label": "status",
+        "importPath": "rest_framework",
+        "description": "rest_framework",
+        "isExtraImport": true,
+        "detail": "rest_framework",
+        "documentation": {}
+    },
+    {
+        "label": "TestCase",
+        "importPath": "django.test",
+        "description": "django.test",
+        "isExtraImport": true,
+        "detail": "django.test",
+        "documentation": {}
+    },
+    {
+        "label": "TestCase",
+        "importPath": "django.test",
+        "description": "django.test",
+        "isExtraImport": true,
+        "detail": "django.test",
+        "documentation": {}
+    },
+    {
+        "label": "api_view",
+        "importPath": "rest_framework.decorators",
+        "description": "rest_framework.decorators",
+        "isExtraImport": true,
+        "detail": "rest_framework.decorators",
+        "documentation": {}
+    },
+    {
+        "label": "permission_classes",
+        "importPath": "rest_framework.decorators",
+        "description": "rest_framework.decorators",
+        "isExtraImport": true,
+        "detail": "rest_framework.decorators",
+        "documentation": {}
+    },
+    {
+        "label": "api_view",
+        "importPath": "rest_framework.decorators",
+        "description": "rest_framework.decorators",
+        "isExtraImport": true,
+        "detail": "rest_framework.decorators",
+        "documentation": {}
+    },
+    {
+        "label": "permission_classes",
+        "importPath": "rest_framework.decorators",
+        "description": "rest_framework.decorators",
+        "isExtraImport": true,
+        "detail": "rest_framework.decorators",
+        "documentation": {}
+    },
+    {
+        "label": "IsAuthenticated",
+        "importPath": "rest_framework.permissions",
+        "description": "rest_framework.permissions",
+        "isExtraImport": true,
+        "detail": "rest_framework.permissions",
+        "documentation": {}
+    },
+    {
+        "label": "BasePermission",
+        "importPath": "rest_framework.permissions",
+        "description": "rest_framework.permissions",
+        "isExtraImport": true,
+        "detail": "rest_framework.permissions",
+        "documentation": {}
+    },
+    {
+        "label": "IsAuthenticated",
+        "importPath": "rest_framework.permissions",
+        "description": "rest_framework.permissions",
+        "isExtraImport": true,
+        "detail": "rest_framework.permissions",
+        "documentation": {}
+    },
+    {
+        "label": "Response",
+        "importPath": "rest_framework.response",
+        "description": "rest_framework.response",
+        "isExtraImport": true,
+        "detail": "rest_framework.response",
+        "documentation": {}
+    },
+    {
+        "label": "Response",
+        "importPath": "rest_framework.response",
+        "description": "rest_framework.response",
+        "isExtraImport": true,
+        "detail": "rest_framework.response",
+        "documentation": {}
+    },
+    {
+        "label": "django.contrib.auth.models",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "django.contrib.auth.models",
+        "description": "django.contrib.auth.models",
+        "detail": "django.contrib.auth.models",
+        "documentation": {}
+    },
+    {
+        "label": "AbstractUser",
+        "importPath": "django.contrib.auth.models",
+        "description": "django.contrib.auth.models",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth.models",
+        "documentation": {}
+    },
+    {
+        "label": "django.contrib.auth.validators",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "django.contrib.auth.validators",
+        "description": "django.contrib.auth.validators",
+        "detail": "django.contrib.auth.validators",
+        "documentation": {}
+    },
+    {
+        "label": "django.utils.timezone",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "django.utils.timezone",
+        "description": "django.utils.timezone",
+        "detail": "django.utils.timezone",
+        "documentation": {}
+    },
+    {
+        "label": "authenticate",
+        "importPath": "django.contrib.auth",
+        "description": "django.contrib.auth",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth",
+        "documentation": {}
+    },
+    {
+        "label": "ObjectDoesNotExist",
+        "importPath": "django.core.exceptions",
+        "description": "django.core.exceptions",
+        "isExtraImport": true,
+        "detail": "django.core.exceptions",
+        "documentation": {}
+    },
+    {
+        "label": "Token",
+        "importPath": "rest_framework.authtoken.models",
+        "description": "rest_framework.authtoken.models",
+        "isExtraImport": true,
+        "detail": "rest_framework.authtoken.models",
+        "documentation": {}
+    },
+    {
+        "label": "sys",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "sys",
+        "description": "sys",
+        "detail": "sys",
+        "documentation": {}
+    },
+    {
+        "label": "application",
+        "kind": 5,
+        "importPath": "BEAPIShop.asgi",
+        "description": "BEAPIShop.asgi",
+        "peekOfCode": "application = get_asgi_application()",
+        "detail": "BEAPIShop.asgi",
+        "documentation": {}
+    },
+    {
+        "label": "BASE_DIR",
+        "kind": 5,
+        "importPath": "BEAPIShop.settings",
+        "description": "BEAPIShop.settings",
+        "peekOfCode": "BASE_DIR = Path(__file__).resolve().parent.parent\n# Quick-start development settings - unsuitable for production\n# See https://docs.djangoproject.com/en/4.1/howto/deployment/checklist/\n# SECURITY WARNING: keep the secret key used in production secret!\nSECRET_KEY = 'django-insecure-tvm7w1^h&x6-3$h@1oax)io^s3g)nqg7vr@19+*nzsa8-p0f-m'\n# SECURITY WARNING: don't run with debug turned on in production!\nDEBUG = True\nALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [",
+        "detail": "BEAPIShop.settings",
+        "documentation": {}
+    },
+    {
+        "label": "SECRET_KEY",
+        "kind": 5,
+        "importPath": "BEAPIShop.settings",
+        "description": "BEAPIShop.settings",
+        "peekOfCode": "SECRET_KEY = 'django-insecure-tvm7w1^h&x6-3$h@1oax)io^s3g)nqg7vr@19+*nzsa8-p0f-m'\n# SECURITY WARNING: don't run with debug turned on in production!\nDEBUG = True\nALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',",
+        "detail": "BEAPIShop.settings",
+        "documentation": {}
+    },
+    {
+        "label": "DEBUG",
+        "kind": 5,
+        "importPath": "BEAPIShop.settings",
+        "description": "BEAPIShop.settings",
+        "peekOfCode": "DEBUG = True\nALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',",
+        "detail": "BEAPIShop.settings",
+        "documentation": {}
+    },
+    {
+        "label": "ALLOWED_HOSTS",
+        "kind": 5,
+        "importPath": "BEAPIShop.settings",
+        "description": "BEAPIShop.settings",
+        "peekOfCode": "ALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',\n    'rest_framework',",
+        "detail": "BEAPIShop.settings",
+        "documentation": {}
+    },
+    {
+        "label": "INSTALLED_APPS",
+        "kind": 5,
+        "importPath": "BEAPIShop.settings",
+        "description": "BEAPIShop.settings",
+        "peekOfCode": "INSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',\n    'rest_framework',\n    'rest_framework.authtoken',\n    'accounts',",
+        "detail": "BEAPIShop.settings",
+        "documentation": {}
+    },
+    {
+        "label": "MIDDLEWARE",
+        "kind": 5,
+        "importPath": "BEAPIShop.settings",
+        "description": "BEAPIShop.settings",
+        "peekOfCode": "MIDDLEWARE = [\n    'django.middleware.security.SecurityMiddleware',\n    'django.contrib.sessions.middleware.SessionMiddleware',\n    'django.middleware.common.CommonMiddleware',\n    'django.middleware.csrf.CsrfViewMiddleware',\n    'django.contrib.auth.middleware.AuthenticationMiddleware',\n    'django.contrib.messages.middleware.MessageMiddleware',\n    'django.middleware.clickjacking.XFrameOptionsMiddleware',\n    'corsheaders.middleware.CorsMiddleware',\n    'django.middleware.common.CommonMiddleware',",
+        "detail": "BEAPIShop.settings",
+        "documentation": {}
+    },
+    {
+        "label": "ROOT_URLCONF",
+        "kind": 5,
+        "importPath": "BEAPIShop.settings",
+        "description": "BEAPIShop.settings",
+        "peekOfCode": "ROOT_URLCONF = 'BEAPIShop.urls'\nTEMPLATES = [\n    {\n        'BACKEND': 'django.template.backends.django.DjangoTemplates',\n        'DIRS': [],\n        'APP_DIRS': True,\n        'OPTIONS': {\n            'context_processors': [\n                'django.template.context_processors.debug',\n                'django.template.context_processors.request',",
+        "detail": "BEAPIShop.settings",
+        "documentation": {}
+    },
+    {
+        "label": "TEMPLATES",
+        "kind": 5,
+        "importPath": "BEAPIShop.settings",
+        "description": "BEAPIShop.settings",
+        "peekOfCode": "TEMPLATES = [\n    {\n        'BACKEND': 'django.template.backends.django.DjangoTemplates',\n        'DIRS': [],\n        'APP_DIRS': True,\n        'OPTIONS': {\n            'context_processors': [\n                'django.template.context_processors.debug',\n                'django.template.context_processors.request',\n                'django.contrib.auth.context_processors.auth',",
+        "detail": "BEAPIShop.settings",
+        "documentation": {}
+    },
+    {
+        "label": "WSGI_APPLICATION",
+        "kind": 5,
+        "importPath": "BEAPIShop.settings",
+        "description": "BEAPIShop.settings",
+        "peekOfCode": "WSGI_APPLICATION = 'BEAPIShop.wsgi.application'\nCORS_ALLOW_ALL_ORIGINS = True\n# Database\n# https://docs.djangoproject.com/en/4.1/ref/settings/#databases\nDATABASES = {\n    'default': {\n        'ENGINE': 'django.db.backends.postgresql',\n        'NAME': 'Shop',  \n        'USER': 'nguyenduyhieu',\n        'PASSWORD': '',",
+        "detail": "BEAPIShop.settings",
+        "documentation": {}
+    },
+    {
+        "label": "CORS_ALLOW_ALL_ORIGINS",
+        "kind": 5,
+        "importPath": "BEAPIShop.settings",
+        "description": "BEAPIShop.settings",
+        "peekOfCode": "CORS_ALLOW_ALL_ORIGINS = True\n# Database\n# https://docs.djangoproject.com/en/4.1/ref/settings/#databases\nDATABASES = {\n    'default': {\n        'ENGINE': 'django.db.backends.postgresql',\n        'NAME': 'Shop',  \n        'USER': 'nguyenduyhieu',\n        'PASSWORD': '',\n        'HOST': 'localhost',  ",
+        "detail": "BEAPIShop.settings",
+        "documentation": {}
+    },
+    {
+        "label": "DATABASES",
+        "kind": 5,
+        "importPath": "BEAPIShop.settings",
+        "description": "BEAPIShop.settings",
+        "peekOfCode": "DATABASES = {\n    'default': {\n        'ENGINE': 'django.db.backends.postgresql',\n        'NAME': 'Shop',  \n        'USER': 'nguyenduyhieu',\n        'PASSWORD': '',\n        'HOST': 'localhost',  \n        'PORT': '5432',\n    }\n}",
+        "detail": "BEAPIShop.settings",
+        "documentation": {}
+    },
+    {
+        "label": "AUTH_PASSWORD_VALIDATORS",
+        "kind": 5,
+        "importPath": "BEAPIShop.settings",
+        "description": "BEAPIShop.settings",
+        "peekOfCode": "AUTH_PASSWORD_VALIDATORS = [\n    {\n        'NAME': 'django.contrib.auth.password_validation.UserAttributeSimilarityValidator',\n    },\n    {\n        'NAME': 'django.contrib.auth.password_validation.MinimumLengthValidator',\n    },\n    {\n        'NAME': 'django.contrib.auth.password_validation.CommonPasswordValidator',\n    },",
+        "detail": "BEAPIShop.settings",
+        "documentation": {}
+    },
+    {
+        "label": "LANGUAGE_CODE",
+        "kind": 5,
+        "importPath": "BEAPIShop.settings",
+        "description": "BEAPIShop.settings",
+        "peekOfCode": "LANGUAGE_CODE = 'en-us'\nTIME_ZONE = 'UTC'\nUSE_I18N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/4.1/howto/static-files/\nSTATIC_URL = 'static/'\n# Default primary key field type\n# https://docs.djangoproject.com/en/4.1/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'",
+        "detail": "BEAPIShop.settings",
+        "documentation": {}
+    },
+    {
+        "label": "TIME_ZONE",
+        "kind": 5,
+        "importPath": "BEAPIShop.settings",
+        "description": "BEAPIShop.settings",
+        "peekOfCode": "TIME_ZONE = 'UTC'\nUSE_I18N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/4.1/howto/static-files/\nSTATIC_URL = 'static/'\n# Default primary key field type\n# https://docs.djangoproject.com/en/4.1/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'\nAUTH_USER_MODEL = 'accounts.CustomUser'",
+        "detail": "BEAPIShop.settings",
+        "documentation": {}
+    },
+    {
+        "label": "USE_I18N",
+        "kind": 5,
+        "importPath": "BEAPIShop.settings",
+        "description": "BEAPIShop.settings",
+        "peekOfCode": "USE_I18N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/4.1/howto/static-files/\nSTATIC_URL = 'static/'\n# Default primary key field type\n# https://docs.djangoproject.com/en/4.1/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'\nAUTH_USER_MODEL = 'accounts.CustomUser'\nREST_FRAMEWORK = {",
+        "detail": "BEAPIShop.settings",
+        "documentation": {}
+    },
+    {
+        "label": "USE_TZ",
+        "kind": 5,
+        "importPath": "BEAPIShop.settings",
+        "description": "BEAPIShop.settings",
+        "peekOfCode": "USE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/4.1/howto/static-files/\nSTATIC_URL = 'static/'\n# Default primary key field type\n# https://docs.djangoproject.com/en/4.1/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'\nAUTH_USER_MODEL = 'accounts.CustomUser'\nREST_FRAMEWORK = {\n    'DEFAULT_AUTHENTICATION_CLASSES': [",
+        "detail": "BEAPIShop.settings",
+        "documentation": {}
+    },
+    {
+        "label": "STATIC_URL",
+        "kind": 5,
+        "importPath": "BEAPIShop.settings",
+        "description": "BEAPIShop.settings",
+        "peekOfCode": "STATIC_URL = 'static/'\n# Default primary key field type\n# https://docs.djangoproject.com/en/4.1/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'\nAUTH_USER_MODEL = 'accounts.CustomUser'\nREST_FRAMEWORK = {\n    'DEFAULT_AUTHENTICATION_CLASSES': [\n        'rest_framework.authentication.TokenAuthentication',\n    ],\n    # Other settings...",
+        "detail": "BEAPIShop.settings",
+        "documentation": {}
+    },
+    {
+        "label": "DEFAULT_AUTO_FIELD",
+        "kind": 5,
+        "importPath": "BEAPIShop.settings",
+        "description": "BEAPIShop.settings",
+        "peekOfCode": "DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'\nAUTH_USER_MODEL = 'accounts.CustomUser'\nREST_FRAMEWORK = {\n    'DEFAULT_AUTHENTICATION_CLASSES': [\n        'rest_framework.authentication.TokenAuthentication',\n    ],\n    # Other settings...\n}",
+        "detail": "BEAPIShop.settings",
+        "documentation": {}
+    },
+    {
+        "label": "AUTH_USER_MODEL",
+        "kind": 5,
+        "importPath": "BEAPIShop.settings",
+        "description": "BEAPIShop.settings",
+        "peekOfCode": "AUTH_USER_MODEL = 'accounts.CustomUser'\nREST_FRAMEWORK = {\n    'DEFAULT_AUTHENTICATION_CLASSES': [\n        'rest_framework.authentication.TokenAuthentication',\n    ],\n    # Other settings...\n}",
+        "detail": "BEAPIShop.settings",
+        "documentation": {}
+    },
+    {
+        "label": "REST_FRAMEWORK",
+        "kind": 5,
+        "importPath": "BEAPIShop.settings",
+        "description": "BEAPIShop.settings",
+        "peekOfCode": "REST_FRAMEWORK = {\n    'DEFAULT_AUTHENTICATION_CLASSES': [\n        'rest_framework.authentication.TokenAuthentication',\n    ],\n    # Other settings...\n}",
+        "detail": "BEAPIShop.settings",
+        "documentation": {}
+    },
+    {
+        "label": "urlpatterns",
+        "kind": 5,
+        "importPath": "BEAPIShop.urls",
+        "description": "BEAPIShop.urls",
+        "peekOfCode": "urlpatterns = [\n    path('admin/', admin.site.urls),\n    path('api/', include('accounts.urls')), \n    path('api/', include('ShoesType.urls')),# Include the app's URLs\n]",
+        "detail": "BEAPIShop.urls",
+        "documentation": {}
+    },
+    {
+        "label": "application",
+        "kind": 5,
+        "importPath": "BEAPIShop.wsgi",
+        "description": "BEAPIShop.wsgi",
+        "peekOfCode": "application = get_wsgi_application()",
+        "detail": "BEAPIShop.wsgi",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "ShoesType.migrations.0001_initial",
+        "description": "ShoesType.migrations.0001_initial",
+        "peekOfCode": "class Migration(migrations.Migration):\n    initial = True\n    dependencies = [\n    ]\n    operations = [\n        migrations.CreateModel(\n            name='ShoesType',\n            fields=[\n                ('id', models.BigAutoField(auto_created=True, primary_key=True, serialize=False, verbose_name='ID')),\n                ('name', models.CharField(max_length=100)),",
+        "detail": "ShoesType.migrations.0001_initial",
+        "documentation": {}
+    },
+    {
+        "label": "ShoestypeConfig",
+        "kind": 6,
+        "importPath": "ShoesType.apps",
+        "description": "ShoesType.apps",
+        "peekOfCode": "class ShoestypeConfig(AppConfig):\n    default_auto_field = 'django.db.models.BigAutoField'\n    name = 'ShoesType'",
+        "detail": "ShoesType.apps",
+        "documentation": {}
+    },
+    {
+        "label": "ShoesType",
+        "kind": 6,
+        "importPath": "ShoesType.models",
+        "description": "ShoesType.models",
+        "peekOfCode": "class ShoesType(models.Model):\n    name = models.CharField(max_length=100)\n    def __str__(self):\n        return self.name",
+        "detail": "ShoesType.models",
+        "documentation": {}
+    },
+    {
+        "label": "ShoesTypeSerializer",
+        "kind": 6,
+        "importPath": "ShoesType.serializers",
+        "description": "ShoesType.serializers",
+        "peekOfCode": "class ShoesTypeSerializer(serializers.ModelSerializer):\n    class Meta:\n        model = ShoesType\n        fields = '__all__'\n    def create(self, validated_data):\n        return ShoesType.objects.create(**validated_data)\n    def update(self, instance, validated_data):\n        instance.name = validated_data.get('name', instance.name)\n        instance.save()\n        return instance",
+        "detail": "ShoesType.serializers",
+        "documentation": {}
+    },
+    {
+        "label": "urlpatterns",
+        "kind": 5,
+        "importPath": "ShoesType.urls",
+        "description": "ShoesType.urls",
+        "peekOfCode": "urlpatterns = [\n    path(\"createtype/\", create_shoes_type, name=\"create_shoes_type\"),\n    path(\"updatetype/\", update_shoes_type, name=\"update_shoes_type\"),\n    path(\"deletetype/\", delete_shoes_type, name=\"delete_shoes_type\"),\n    path(\"getalltype/\", get_all_shoes_types, name=\"get_all_shoes_types\"),\n    # Các đường dẫn khác nếu có\n]",
+        "detail": "ShoesType.urls",
+        "documentation": {}
+    },
+    {
+        "label": "IsAdminOrReadOnly",
+        "kind": 6,
+        "importPath": "ShoesType.views",
+        "description": "ShoesType.views",
+        "peekOfCode": "class IsAdminOrReadOnly(BasePermission):\n    def has_permission(self, request, view):\n        # Kiểm tra xem người dùng hiện tại có phải là Admin hay không\n        return request.user.role == 'Admin' if request.method in ('POST', 'PUT', 'DELETE') else True\n@api_view(['POST', 'OPTIONS'])\n@permission_classes([IsAuthenticated, IsAdminOrReadOnly])\ndef create_shoes_type(request):\n    if request.method == 'POST':\n        serializer = ShoesTypeSerializer(data=request.data)\n        if serializer.is_valid():",
+        "detail": "ShoesType.views",
+        "documentation": {}
+    },
+    {
+        "label": "create_shoes_type",
+        "kind": 2,
+        "importPath": "ShoesType.views",
+        "description": "ShoesType.views",
+        "peekOfCode": "def create_shoes_type(request):\n    if request.method == 'POST':\n        serializer = ShoesTypeSerializer(data=request.data)\n        if serializer.is_valid():\n            serializer.save()\n            return Response(serializer.data, status=status.HTTP_201_CREATED)\n        return Response(serializer.errors, status=status.HTTP_400_BAD_REQUEST)\n@api_view(['PUT', 'OPTIONS'])\n@permission_classes([IsAuthenticated, IsAdminOrReadOnly])\ndef update_shoes_type(request, shoes_type_id):",
+        "detail": "ShoesType.views",
+        "documentation": {}
+    },
+    {
+        "label": "update_shoes_type",
+        "kind": 2,
+        "importPath": "ShoesType.views",
+        "description": "ShoesType.views",
+        "peekOfCode": "def update_shoes_type(request, shoes_type_id):\n    try:\n        shoes_type = ShoesType.objects.get(pk=shoes_type_id)\n        serializer = ShoesTypeSerializer(shoes_type, data=request.data)\n        if serializer.is_valid():\n            serializer.save()\n            return Response(serializer.data, status=status.HTTP_200_OK)\n        return Response(serializer.errors, status=status.HTTP_400_BAD_REQUEST)\n    except ShoesType.DoesNotExist:\n        return Response({'error': 'ShoesType not found'}, status=status.HTTP_404_NOT_FOUND)",
+        "detail": "ShoesType.views",
+        "documentation": {}
+    },
+    {
+        "label": "delete_shoes_type",
+        "kind": 2,
+        "importPath": "ShoesType.views",
+        "description": "ShoesType.views",
+        "peekOfCode": "def delete_shoes_type(request, shoes_type_id):\n    try:\n        shoes_type = ShoesType.objects.get(pk=shoes_type_id)\n        shoes_type.delete()\n        return Response({'message': 'ShoesType deleted successfully'}, status=status.HTTP_204_NO_CONTENT)\n    except ShoesType.DoesNotExist:\n        return Response({'error': 'ShoesType not found'}, status=status.HTTP_404_NOT_FOUND)\n    except Exception as e:\n        return Response({'error': str(e)}, status=status.HTTP_500_INTERNAL_SERVER_ERROR)\n@api_view(['GET'])",
+        "detail": "ShoesType.views",
+        "documentation": {}
+    },
+    {
+        "label": "get_all_shoes_types",
+        "kind": 2,
+        "importPath": "ShoesType.views",
+        "description": "ShoesType.views",
+        "peekOfCode": "def get_all_shoes_types(request):\n    try:\n        shoes_types = ShoesType.objects.all()\n        serializer = ShoesTypeSerializer(shoes_types, many=True)\n        return Response(serializer.data, status=status.HTTP_200_OK)\n    except Exception as e:\n        return Response({'error': str(e)}, status=status.HTTP_500_INTERNAL_SERVER_ERROR)",
+        "detail": "ShoesType.views",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "accounts.migrations.0001_initial",
+        "description": "accounts.migrations.0001_initial",
+        "peekOfCode": "class Migration(migrations.Migration):\n    initial = True\n    dependencies = [\n        ('auth', '0012_alter_user_first_name_max_length'),\n    ]\n    operations = [\n        migrations.CreateModel(\n            name='CustomUser',\n            fields=[\n                ('id', models.BigAutoField(auto_created=True, primary_key=True, serialize=False, verbose_name='ID')),",
+        "detail": "accounts.migrations.0001_initial",
+        "documentation": {}
+    },
+    {
+        "label": "AccountsConfig",
+        "kind": 6,
+        "importPath": "accounts.apps",
+        "description": "accounts.apps",
+        "peekOfCode": "class AccountsConfig(AppConfig):\n    default_auto_field = 'django.db.models.BigAutoField'\n    name = 'accounts'",
+        "detail": "accounts.apps",
+        "documentation": {}
+    },
+    {
+        "label": "CustomUser",
+        "kind": 6,
+        "importPath": "accounts.models",
+        "description": "accounts.models",
+        "peekOfCode": "class CustomUser(AbstractUser):\n    email = models.EmailField(unique=True)\n    phone = models.CharField(max_length=15, blank=True, null=True)\n    address = models.CharField(max_length=255, blank=True, null=True)\n    role = models.CharField(max_length=50, blank=True, null=True)\n    # Rest of your model code...",
+        "detail": "accounts.models",
+        "documentation": {}
+    },
+    {
+        "label": "UserSerializer",
+        "kind": 6,
+        "importPath": "accounts.serializers",
+        "description": "accounts.serializers",
+        "peekOfCode": "class UserSerializer(serializers.ModelSerializer):\n    class Meta:\n        model = CustomUser\n        fields = [\"username\", \"email\", \"password\", \"phone\", \"address\", \"role\"]\n        extra_kwargs = {\"password\": {\"write_only\": True}}\n    def create(self, validated_data):\n        # Mặc định role là 'User' nếu không có giá trị được cung cấp\n        role = validated_data.get(\"role\", \"User\")\n        user = CustomUser(\n            username=validated_data[\"username\"],",
+        "detail": "accounts.serializers",
+        "documentation": {}
+    },
+    {
+        "label": "urlpatterns",
+        "kind": 5,
+        "importPath": "accounts.urls",
+        "description": "accounts.urls",
+        "peekOfCode": "urlpatterns = [\n    path(\"register/\", register_user, name=\"register\"),\n    path(\"login/\", user_login, name=\"login\"),\n    path(\"logout/\", user_logout, name=\"logout\"),\n    path(\"update_user/<int:user_id>/\", update_user, name=\"update_user\"),\n    path(\"delete_user/<int:user_id>/\", delete_user, name=\"delete_user\"),\n    path(\"getalluser/\", get_all_users, name=\"get_all_users\"),\n]",
+        "detail": "accounts.urls",
+        "documentation": {}
+    },
+    {
+        "label": "register_user",
+        "kind": 2,
+        "importPath": "accounts.views",
+        "description": "accounts.views",
+        "peekOfCode": "def register_user(request):\n    if request.method == 'POST':\n        serializer = UserSerializer(data=request.data)\n        if serializer.is_valid():\n            serializer.save()\n            return Response(serializer.data, status=status.HTTP_201_CREATED)\n        return Response(serializer.errors, status=status.HTTP_400_BAD_REQUEST)\n@api_view(['POST', 'OPTIONS'])\ndef user_login(request):\n    if request.method == 'POST':",
+        "detail": "accounts.views",
+        "documentation": {}
+    },
+    {
+        "label": "user_login",
+        "kind": 2,
+        "importPath": "accounts.views",
+        "description": "accounts.views",
+        "peekOfCode": "def user_login(request):\n    if request.method == 'POST':\n        username = request.data.get('username')\n        password = request.data.get('password')\n        user = None\n        if '@' in username:\n            try:\n                user = CustomUser.objects.get(email=username)\n            except ObjectDoesNotExist:\n                pass",
+        "detail": "accounts.views",
+        "documentation": {}
+    },
+    {
+        "label": "user_logout",
+        "kind": 2,
+        "importPath": "accounts.views",
+        "description": "accounts.views",
+        "peekOfCode": "def user_logout(request):\n    if request.method == 'POST':\n        try:\n            # Delete the user's token to logout\n            request.user.auth_token.delete()\n            return Response({'message': 'Successfully logged out.'}, status=status.HTTP_200_OK)\n        except Exception as e:\n            return Response({'error': str(e)}, status=status.HTTP_500_INTERNAL_SERVER_ERROR)\n    elif request.method == 'OPTIONS':\n        return Response(status=status.HTTP_200_OK)",
+        "detail": "accounts.views",
+        "documentation": {}
+    },
+    {
+        "label": "update_user",
+        "kind": 2,
+        "importPath": "accounts.views",
+        "description": "accounts.views",
+        "peekOfCode": "def update_user(request, user_id):\n    try:\n        current_user = request.user\n        if not current_user.role == 'Admin':\n            return Response({'error': 'Permission denied'}, status=status.HTTP_403_FORBIDDEN)\n        user_to_update = CustomUser.objects.get(pk=user_id)\n        serializer = UserSerializer(user_to_update, data=request.data)\n        if serializer.is_valid():\n            serializer.save()\n            return Response(serializer.data, status=status.HTTP_200_OK)",
+        "detail": "accounts.views",
+        "documentation": {}
+    },
+    {
+        "label": "delete_user",
+        "kind": 2,
+        "importPath": "accounts.views",
+        "description": "accounts.views",
+        "peekOfCode": "def delete_user(request, user_id):\n    try:\n        current_user = request.user\n        if current_user.role != 'Admin':\n            return Response({'error':'Permission denied'}, status=status.HTTP_403_FORBIDDEN)\n        user_to_delete = CustomUser.objects.get(pk=user_id)\n        user_to_delete.delete()\n        return Response({'message': 'User deleted successfully'}, status=status.HTTP_204_NO_CONTENT)\n    except CustomUser.DoesNotExist:\n        return Response({'error':'User not found'}, status=status.HTTP_404_NOT_FOUND)",
+        "detail": "accounts.views",
+        "documentation": {}
+    },
+    {
+        "label": "get_all_users",
+        "kind": 2,
+        "importPath": "accounts.views",
+        "description": "accounts.views",
+        "peekOfCode": "def get_all_users(request):\n    try:\n        current_user = request.user\n        if not current_user.role == 'Admin':\n            return Response({'error': 'Permission denied'}, status=status.HTTP_403_FORBIDDEN)\n        users = CustomUser.objects.all()\n        serializer = UserSerializer(users, many=True)\n        return Response(serializer.data, status=status.HTTP_200_OK)\n    except Exception as e:\n        return Response({'error': str(e)}, status=status.HTTP_500_INTERNAL_SERVER_ERROR)",
+        "detail": "accounts.views",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "manage",
+        "description": "manage",
+        "peekOfCode": "def main():\n    \"\"\"Run administrative tasks.\"\"\"\n    os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'BEAPIShop.settings')\n    try:\n        from django.core.management import execute_from_command_line\n    except ImportError as exc:\n        raise ImportError(\n            \"Couldn't import Django. Are you sure it's installed and \"\n            \"available on your PYTHONPATH environment variable? Did you \"\n            \"forget to activate a virtual environment?\"",
+        "detail": "manage",
+        "documentation": {}
+    }
+]
